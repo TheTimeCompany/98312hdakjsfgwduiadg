@@ -1,31 +1,40 @@
 [
-    {
-        "project_name": "JackBus",
-        "project_icon": "icons/chatbot.png",
-        "project_header": "image/unknown.png",
-        "project_info": "Bus tracker map for Metrobus St. John's",
-        "project_category": "JSON Visualizer",
-        "project_url": "https://jackbus.muxai.cc",
-        "project_date": "2025-01-29"
-    },
-    {
-        "project_name": "BRACU Course Search",
-        "project_icon": "icons/vision.png",
-        "project_header": "image/unknown.png",
-        "project_info": "Search engine for looking up information about courses, instructors, schedules of BRAC University",
-        "project_category": ["JSON Visualizer","Search Engine"],
-        "collaborators": "Eniamza",
-        "collaborators_url": "https://eniamza.com/",
-        "project_url": "https://bracu.muxai.cc",
-        "project_date": "2025-01-31"
-    },
-    {
-        "project_name": "Oozbok",
-        "project_icon": "icons/automation.png",
-        "project_header": "image/unknown.png",
-        "project_info": "Automated form filler bot",
-        "project_category": "Automation",
-        "project_url": "https://oozbok.muxai.cc",
-        "project_date": "2025-01-25"
-    }
-]
+        {
+            "project_name": "JackBus",
+            "project_icon": "https://jackbus.muxai.cc/favicon.png",
+            "project_header": "https://dewanmukto.com/asset/images/appimage04.png",
+            "project_info": "Bus tracker map for Metrobus St. John's",
+            "project_category": "JSON Visualizer",
+            "project_url": "https://jackbus.muxai.cc",
+            "project_date": "2025-01-29"
+        },
+        {
+            "project_name": "BRACU Course Search",
+            "project_icon": "https://bracu.muxday.com/favicon.png",
+            "project_header": "https://bracu.muxday.com/ogimage.png",
+            "project_info": "Search engine for looking up information about courses, instructors, schedules of BRAC University",
+            "project_category": ["JSON Visualizer", "Search Engine"],
+            "collaborators": "Eniamza",
+            "collaborators_url": "https://eniamza.com/",
+            "project_url": "https://bracu.muxai.cc",
+            "project_date": "2025-01-31"
+        },
+        {
+            "project_name": "Oozbok",
+            "project_icon": "https://4289575670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FJBVe8XQC5nJphwncl83k%2Fsites%2Fsite_VP0fu%2Ficon%2FQzjh8cAgRCu1883io6wI%2FMux_logo_icon_2025-removebg-preview.ico?alt=media&amp;token=1d228331-b8f8-41a0-8de9-e5bc913d81a7",
+            "project_header": "https://dewanmukto.com/asset/images/appimage03.png",
+            "project_info": "Automated form filler bot",
+            "project_category": "Automation",
+            "project_url": "https://oozbok.muxai.cc",
+            "project_date": "2025-01-25"
+        },
+        {
+            "project_name": "JammyTube",
+            "project_icon": "https://jammytube.netlify.app/player/jammyicon.png",
+            "project_header": "https://instagram.fzyl1-1.fna.fbcdn.net/v/t51.29350-15/447514741_1004257398088970_1759942982926605322_n.heic?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fzyl1-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2AHE2kny9_o5HUCJrgG5f63JZFgO33GfUYGn_sYThGEa8vonYdiJ2eYi5amwCdw3PRk&_nc_ohc=QRBC-OxTh-0Q7kNvgHCIqzF&_nc_gid=ded8ad9015df4d32917ce93ce57d82e5&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzM4MjIzNDczMTQ4MjczNjEwNg%3D%3D.3-ccb7-5&oh=00_AYAHkdh3qQq3URuzN2q7HABAQUB5KG6ibUsWE9YYOxJ6Zg&oe=67A55C0A&_nc_sid=7a9f4b",
+            "project_info": "Ad-free YouTube streaming, intended for 'dimming out' videos from music",
+            "project_category": ["API Abuse", "Video Player"],
+            "project_url": "https://jammy.muxai.cc",
+            "project_date": "2024-06-03"
+        }
+    ]
