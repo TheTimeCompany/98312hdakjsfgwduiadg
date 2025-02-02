@@ -1,14 +1,5 @@
 [
         {
-            "project_name": "JackBus",
-            "project_icon": "https://jackbus.muxai.cc/favicon.png",
-            "project_header": "https://dewanmukto.com/asset/images/appimage04.png",
-            "project_info": "Bus tracker map for Metrobus St. John's",
-            "project_category": "JSON Visualizer",
-            "project_url": "https://jackbus.muxai.cc",
-            "project_date": "2025-01-29"
-        },
-        {
             "project_name": "BRACU Course Search",
             "project_icon": "https://bracu.muxday.com/favicon.png",
             "project_header": "https://bracu.muxday.com/ogimage.png",
@@ -18,6 +9,15 @@
             "collaborators_url": "https://eniamza.com/",
             "project_url": "https://bracu.muxai.cc",
             "project_date": "2025-01-31"
+        },
+        {
+            "project_name": "JackBus",
+            "project_icon": "https://jackbus.muxai.cc/favicon.png",
+            "project_header": "https://dewanmukto.com/asset/images/appimage04.png",
+            "project_info": "Bus tracker map for Metrobus St. John's",
+            "project_category": "JSON Visualizer",
+            "project_url": "https://jackbus.muxai.cc",
+            "project_date": "2025-01-29"
         },
         {
             "project_name": "Oozbok",
