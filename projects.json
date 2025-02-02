@@ -1,0 +1,31 @@
+[
+    {
+        "project_name": "JackBus",
+        "project_icon": "icons/chatbot.png",
+        "project_header": "image/unknown.png",
+        "project_info": "Bus tracker map for Metrobus St. John's",
+        "project_category": "JSON Visualizer",
+        "project_url": "https://jackbus.muxai.cc",
+        "project_date": "2025-01-29"
+    },
+    {
+        "project_name": "BRACU Course Search",
+        "project_icon": "icons/vision.png",
+        "project_header": "image/unknown.png",
+        "project_info": "Search engine for looking up information about courses, instructors, schedules of BRAC University",
+        "project_category": ["JSON Visualizer","Search Engine"],
+        "collaborators": "Eniamza",
+        "collaborators_url": "https://eniamza.com/"
+        "project_url": "https://bracu.muxai.cc",
+        "project_date": "2025-01-31"
+    },
+    {
+        "project_name": "Oozbok",
+        "project_icon": "icons/automation.png",
+        "project_header": "image/unknown.png",
+        "project_info": "Automated form filler bot",
+        "project_category": "Automation",
+        "project_url": "https://oozbok.muxai.cc",
+        "project_date": "2025-01-25"
+    }
+]
