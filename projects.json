@@ -36,5 +36,14 @@
             "project_category": ["API Abuse", "Video Player"],
             "project_url": "https://jammy.muxai.cc",
             "project_date": "2024-06-03"
+        },
+        {
+            "project_name": "Rong",
+            "project_icon": "https://cdn.muxai.cc/images/rong-icon.png",
+            "project_header": "https://cdn.muxai.cc/images/rong.png",
+            "project_info": "The next-gen color palette generator - with smart recommendation tools coming soon.",
+            "project_category": ["Color Theory", "Randomizer"],
+            "project_url": "https://rong.muxai.cc",
+            "project_date": "2025-02-03"
         }
     ]
