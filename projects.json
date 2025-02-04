@@ -1,5 +1,14 @@
 [
         {
+            "project_name": "Mux Paint",
+            "project_icon": "https://paint.muxai.cc/favicon.png",
+            "project_header": "https://paint.muxai.cc/ogimage.png",
+            "project_info": "A free and fast instant whiteboard",
+            "project_category": ["Whiteboard"],
+            "project_url": "https://paint.muxai.cc",
+            "project_date": "2025-02-04"
+        },
+        {
             "project_name": "BRACU Course Search",
             "project_icon": "https://bracu.muxday.com/favicon.png",
             "project_header": "https://bracu.muxday.com/ogimage.png",
