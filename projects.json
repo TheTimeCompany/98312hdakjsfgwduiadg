@@ -40,7 +40,7 @@
         {
             "project_name": "JammyTube",
             "project_icon": "https://jammytube.netlify.app/player/jammyicon.png",
-            "project_header": "https://lh3.googleusercontent.com/l7z0U6lhMa95fPivCWUbJCfGloS1mutlvEKfEXQtXir9UJz6DtZDv9k7JgM8SE6-tzGW3z6ZfyINn3iSpRvuDJc=w16383",
+            "project_header": "https://jammy.muxai.cc/ogimage.jpg",
             "project_info": "Ad-free YouTube streaming, intended for 'dimming out' videos from music",
             "project_category": ["API Abuse", "Video Player"],
             "project_url": "https://jammy.muxai.cc",
