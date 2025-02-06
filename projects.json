@@ -1,5 +1,14 @@
 [
         {
+            "project_name": "Mux Repeat",
+            "project_icon": "https://cdn.muxai.cc/ogimage-muxrepeat.ico",
+            "project_header": "https://cdn.muxai.cc/ogimage-muxrepeat.png",
+            "project_info": "Keyboard and mouse action recorder and player",
+            "project_category": ["Automation"],
+            "project_url": "https://repeat.muxai.cc",
+            "project_date": "2025-02-06"
+        },
+        {
             "project_name": "Mux Paint",
             "project_icon": "https://paint.muxai.cc/favicon.png",
             "project_header": "https://paint.muxai.cc/ogimage.png",
