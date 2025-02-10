@@ -1,20 +1,20 @@
 [
         {
             "project_name": "Mux Repeat",
-            "project_icon": "https://cdn.muxai.cc/images/ogimage-muxrepeat.ico",
-            "project_header": "https://cdn.muxai.cc/images/ogimage-muxrepeat.png",
+            "project_icon": "https://cdn.muxday.com/images/ogimage-muxrepeat.ico",
+            "project_header": "https://cdn.muxday.com/images/ogimage-muxrepeat.png",
             "project_info": "Keyboard and mouse action recorder and player",
             "project_category": ["Automation"],
-            "project_url": "https://repeat.muxai.cc",
+            "project_url": "https://repeat.muxday.com",
             "project_date": "2025-02-06"
         },
         {
             "project_name": "Mux Paint",
-            "project_icon": "https://paint.muxai.cc/favicon.png",
-            "project_header": "https://paint.muxai.cc/ogimage.png",
+            "project_icon": "https://paint.muxday.com/favicon.png",
+            "project_header": "https://paint.muxday.com/ogimage.png",
             "project_info": "A free and fast instant whiteboard",
             "project_category": ["Whiteboard"],
-            "project_url": "https://paint.muxai.cc",
+            "project_url": "https://paint.muxday.com",
             "project_date": "2025-02-04"
         },
         {
@@ -25,16 +25,16 @@
             "project_category": ["JSON Visualizer", "Search Engine"],
             "collaborators": "Eniamza",
             "collaborators_url": "https://eniamza.com/",
-            "project_url": "https://bracu.muxai.cc",
+            "project_url": "https://bracu.muxday.com",
             "project_date": "2025-01-31"
         },
         {
             "project_name": "JackBus",
-            "project_icon": "https://jackbus.muxai.cc/favicon.png",
+            "project_icon": "https://jackbus.muxday.com/favicon.png",
             "project_header": "https://dewanmukto.com/asset/images/appimage04.png",
             "project_info": "Bus tracker map for Metrobus St. John's",
             "project_category": "JSON Visualizer",
-            "project_url": "https://jackbus.muxai.cc",
+            "project_url": "https://jackbus.muxday.com",
             "project_date": "2025-01-29"
         },
         {
@@ -43,25 +43,25 @@
             "project_header": "https://dewanmukto.com/asset/images/appimage03.png",
             "project_info": "Automated form filler bot",
             "project_category": "Automation",
-            "project_url": "https://oozbok.muxai.cc",
+            "project_url": "https://oozbok.muxday.com",
             "project_date": "2025-01-25"
         },
         {
             "project_name": "JammyTube",
             "project_icon": "https://jammytube.netlify.app/player/jammyicon.png",
-            "project_header": "https://jammy.muxai.cc/ogimage.jpg",
+            "project_header": "https://jammy.muxday.com/ogimage.jpg",
             "project_info": "Ad-free YouTube streaming, intended for 'dimming out' videos from music",
             "project_category": ["API Abuse", "Video Player"],
-            "project_url": "https://jammy.muxai.cc",
+            "project_url": "https://jammy.muxday.com",
             "project_date": "2024-06-03"
         },
         {
             "project_name": "Rong",
-            "project_icon": "https://cdn.muxai.cc/images/rong-icon.png",
-            "project_header": "https://cdn.muxai.cc/images/rong.png",
+            "project_icon": "https://cdn.muxday.com/images/rong-icon.png",
+            "project_header": "https://cdn.muxday.com/images/rong.png",
             "project_info": "The next-gen color palette generator - with smart recommendation tools coming soon.",
             "project_category": ["Color Theory", "Randomizer"],
-            "project_url": "https://rong.muxai.cc",
+            "project_url": "https://rong.muxday.com",
             "project_date": "2025-02-03"
         }
     ]
