@@ -14,7 +14,7 @@
             "project_header": "https://paint.muxday.com/ogimage.png",
             "project_info": "A free and fast instant whiteboard",
             "project_category": ["Whiteboard"],
-            "project_url": "https://paint.muxday.com",
+            "project_url": "https://apps.mux8.com/paint",
             "project_date": "2025-02-04"
         },
         {
@@ -25,7 +25,7 @@
             "project_category": ["JSON Visualizer", "Search Engine"],
             "collaborators": "Eniamza",
             "collaborators_url": "https://eniamza.com/",
-            "project_url": "https://bracu.muxday.com",
+            "project_url": "https://apps.mux8.com/bracu/courses",
             "project_date": "2025-01-31"
         },
         {
@@ -34,7 +34,7 @@
             "project_header": "https://dewanmukto.com/asset/images/appimage04.png",
             "project_info": "Bus tracker map for Metrobus St. John's",
             "project_category": "JSON Visualizer",
-            "project_url": "https://jackbus.muxday.com",
+            "project_url": "https://apps.mux8.com/metrobus",
             "project_date": "2025-01-29"
         },
         {
@@ -52,7 +52,7 @@
             "project_header": "https://jammy.muxday.com/ogimage.jpg",
             "project_info": "Ad-free YouTube streaming, intended for 'dimming out' videos from music",
             "project_category": ["API Abuse", "Video Player"],
-            "project_url": "https://jammy.muxday.com",
+            "project_url": "https://apps.mux8.com/yt",
             "project_date": "2024-06-03"
         },
         {
