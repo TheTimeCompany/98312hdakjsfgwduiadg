@@ -1,5 +1,14 @@
 [
         {
+            "project_name": "Mux Wow",
+            "project_icon": "https://apps.mux8.com/meet/favicon.png",
+            "project_header": "https://dewanmukto.com/asset/images/appimage05.png",
+            "project_info": "Privacy-focused raid-proof video conferencing platform",
+            "project_category": ["Peer-to-Peer","Communication"],
+            "project_url": "https://meet.mux8.com",
+            "project_date": "2025-02-25"
+        },
+        {
             "project_name": "Mux Repeat",
             "project_icon": "https://cdn.mux8.com/images/ogimage-muxrepeat.ico",
             "project_header": "https://cdn.mux8.com/images/ogimage-muxrepeat.png",
