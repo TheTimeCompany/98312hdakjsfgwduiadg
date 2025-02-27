@@ -42,7 +42,7 @@
             "project_icon": "https://apps.mux8.com/metrobus/favicon.png",
             "project_header": "https://dewanmukto.com/asset/images/appimage04.png",
             "project_info": "Bus tracker map for Metrobus St. John's",
-            "project_category": "JSON Visualizer",
+            "project_category": ["JSON Visualizer"],
             "project_url": "https://apps.mux8.com/metrobus",
             "project_date": "2025-01-29"
         },
@@ -51,7 +51,7 @@
             "project_icon": "https://4289575670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FJBVe8XQC5nJphwncl83k%2Fsites%2Fsite_VP0fu%2Ficon%2FQzjh8cAgRCu1883io6wI%2FMux_logo_icon_2025-removebg-preview.ico?alt=media&amp;token=1d228331-b8f8-41a0-8de9-e5bc913d81a7",
             "project_header": "https://dewanmukto.com/asset/images/appimage03.png",
             "project_info": "Automated form filler bot",
-            "project_category": "Automation",
+            "project_category": ["Automation"],
             "project_url": "https://oozbok.mux8.com",
             "project_date": "2025-01-25"
         },
