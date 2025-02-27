@@ -28,7 +28,7 @@
         },
         {
             "project_name": "BRACU Course Search",
-            "project_icon": "https://apps.mux8.com/bracu/courses/favicon.png",
+            "project_icon": "https://www.bracu.ac.bd/sites/all/themes/sloth/images/f-logo.svg",
             "project_header": "https://apps.mux8.com/bracu/courses/ogimage.png",
             "project_info": "Search engine for looking up information about courses, instructors, schedules of BRAC University",
             "project_category": ["JSON Visualizer", "Search Engine"],
